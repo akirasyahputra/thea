@@ -1,0 +1,5 @@
+baseURL: 'https://akirasyahputra.github.io/thea/'
+title: "Akira's Journal"
+module:
+  imports:
+    - path: github.com/adityatelange/hugo-PaperMod
